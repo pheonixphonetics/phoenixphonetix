@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phoenixphonetix
-- 👀 I’m interested in getting a new job but I like making games and crunching data
-- 🌱 I’m currently learning Python
+- 👀 I like making games and crunching data
+- 🌱 I’m currently learning Python and Swift
 - 💞️ I’m looking to collaborate on more games!
 - 📫 How to reach me ...
 
